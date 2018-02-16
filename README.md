@@ -1,1 +1,3 @@
-# SNMP_REST_API
+ IntelliJ IDEA Project. RESTful API for the client application.
+ Used Jersey RESTful Web Services framework and SNMP4J library for data collection using SNPM protocol.
+ Status: In progress ...

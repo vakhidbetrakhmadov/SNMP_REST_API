@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icmp4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/VtkNetAPI/WEB-INF/lib/icmp4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

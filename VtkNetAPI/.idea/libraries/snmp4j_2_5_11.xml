@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="snmp4j-2.5.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/VtkNetAPI/WEB-INF/lib/snmp4j-2.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/snmp4j-2.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

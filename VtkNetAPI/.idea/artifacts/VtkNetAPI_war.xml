@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VtkNetAPI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="VtkNetAPI.war">
+      <element id="artifact" artifact-name="VtkNetAPI:war exploded" />
+    </root>
+  </artifact>
+</component>
